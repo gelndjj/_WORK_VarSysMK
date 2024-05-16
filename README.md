@@ -29,8 +29,8 @@ Before running System Variable Manager, you need to have Python installed on you
 ### Screenshots
 | ![Add VAR to JSON](screenshots/add_var.png) | ![Apply SYS Var](screenshots/apply_var.png)  |
 |:-------------------------------------------:|:--------------------------------------------:|
-|             Equipment Tracking              |                   Summary                    |
+|               Add VAR to JSON               |                   Apply SYS Var                    |
 |    ![Sys Vars](screenshots/SYS_VAR.png)     | ![Display VARs](screenshots/display_var.png) |
-|          Overall Equipment Status           |                   Summary                    |
+|              Sys Vars Windows               |                   Display VARs                    |
 
 
