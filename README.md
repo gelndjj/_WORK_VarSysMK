@@ -27,10 +27,10 @@ Before running System Variable Manager, you need to have Python installed on you
    pip install Gooey
 
 ### Screenshots
-| ![Main Screen](screenshots/equipment_tracking_2.png) | ![Edit VAR Screen](screenshots/equipment_tracking_3.png) |
-|:----------------------------------------------------:|:--------------------------------------------------------:|
-|                  Equipment Tracking                  |                         Summary                          |
-| ![Display VARs](screenshots/confidence_index_2.png)  |           ![Sys Vars](screenshots/summary.png)           |
-|               Overall Equipment Status               |                         Summary                          |
+| ![Add VAR to JSON](screenshots/add_var.png) | ![Apply SYS Var](screenshots/apply_var.png)  |
+|:-------------------------------------------:|:--------------------------------------------:|
+|             Equipment Tracking              |                   Summary                    |
+|    ![Sys Vars](screenshots/SYS_VAR.png)     | ![Display VARs](screenshots/display_var.png) |
+|          Overall Equipment Status           |                   Summary                    |
 
 
