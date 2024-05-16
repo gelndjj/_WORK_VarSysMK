@@ -11,7 +11,6 @@ System Variable Manager is a versatile application designed to manage and monito
 - **Delete Environment Variables**: Remove environment variables that are no longer needed.
 - **Apply Environment Variables**: Apply changes to environment variables to ensure they take effect immediately.
 - **Display Environment Variables**: View all stored environment variables in a structured format.
-- **Update Changes**: Restart the application to ensure all changes are applied and reflected correctly.
 
 ## Getting Started
 
